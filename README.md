@@ -1,0 +1,2 @@
+# copyright
+这是一个从网站首页提取copyright并从中提取公司名称的程序
